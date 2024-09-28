@@ -109,11 +109,4 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes
-- Be sure to replace `yourusername` in the clone URL with your actual GitHub username.
-- Adjust any paths, descriptions, or installations steps specific to your project. 
-
 Feel free to customize this README further as per your project’s requirements! If you have any other specific sections you'd like to add or modify, let me know!
