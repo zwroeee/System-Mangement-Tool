@@ -4,10 +4,6 @@ A comprehensive system management tool written in Python that allows users to mo
 
 ## Features
 
-- **System Monitoring**
-  - Monitor CPU, RAM, and disk usage.
-  - Network speed monitoring.
-
 - **Scheduled Tasks**
   - Schedule shutdowns and other tasks.
 
@@ -43,7 +39,6 @@ To run this project, you need:
 - Required libraries:
   - `psutil`
   - `schedule`
-  - `Tkinter` (comes with Python's standard library)
 
 You can install the required libraries using pip:
 
@@ -56,7 +51,7 @@ pip install psutil schedule
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/system-management-tool.git
+   git clone https://github.com/zwroeee/system-management-tool.git
    ```
 
 2. Change directory to the project folder:
